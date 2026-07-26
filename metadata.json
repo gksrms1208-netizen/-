@@ -1,0 +1,6 @@
+{
+  "name": "우리반 전자 독서기록장",
+  "description": "학생 독서 기록 작성, 학생별 누적 독서록, 교사 학급 대시보드 및 구글 앱스 스크립트 시트 자동 연동, 이달의 독서왕 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
